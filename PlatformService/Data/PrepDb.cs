@@ -1,4 +1,0 @@
-namespace PlatformService.Data
-{
-    
-}
